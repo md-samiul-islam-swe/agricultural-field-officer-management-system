@@ -1,0 +1,6 @@
+{
+  "name": "AgriField Voice Note Recorder",
+  "description": "Voice-to-Text Recording Module for Agricultural Field Officers supporting English (en-US) and Bangla (bn-BD) live transcription.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
